@@ -1,0 +1,1 @@
+Mass email dispatcher
